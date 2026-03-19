@@ -1,0 +1,15 @@
+This repository contains multiple components, each under its own license:
+
+ - Hardware designs (in hw/):
+   CERN Open Hardware License Version 2 (or, at your discretion, later) - Weakly Reciprocal
+   CERN-OHL-W-2.0
+
+ - Source code (in src/):
+   GNU Lesser General Public License v3.0 or later
+   LGPL-3.0-or-later
+
+ - Documentation (in docs/ and in README.md):
+   Creative Commons Attribution-ShareAlike 4.0 (or, at your discretion, later)
+   CC-BY-SA-4.0
+
+See the LICENSE file in the respective directory for the full terms.
