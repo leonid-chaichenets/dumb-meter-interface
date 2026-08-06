@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 # Gas Meters
-![Kromschröder BK-4](images/BK-G4.jpg "Kromschröder BK-G4")
+![Kromschröder BK-4](images/BK-G4.jpg)
 Our prime target is a [Kromschröder BK-4](https://docuthek.kromschroeder.com/download.php?lang=en&doc=64549). However, in principle, any meter with a magnetic reed switch interface
 is supported.
 
